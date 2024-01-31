@@ -1,16 +1,33 @@
-# hello_world
+Este repositorio contiene el código fuente del proyecto "Hola Mundo" desarrollado con Flutter, como parte de la asignatura de Desarrollo Móvil.
 
-A new Flutter project.
+Información del Estudiante
+Nombre: Axel Adrian Enciso Robles
+Número de Control: 20760710
+Materia: Desarrollo Móvil
+Institución: Instituto Tecnológico de Ensenada
+Descripción del Proyecto
+Este proyecto es una implementación básica de una aplicación "Hola Mundo" utilizando Flutter, un framework de código abierto de Google para la creación de aplicaciones móviles nativas para iOS y Android. Este proyecto tiene como objetivo principal familiarizar a los estudiantes con el entorno de desarrollo de Flutter y las bases de la programación de aplicaciones móviles.
 
-## Getting Started
+Estructura del Repositorio
+El repositorio está organizado de la siguiente manera:
 
-This project is a starting point for a Flutter application.
+/lib: Contiene el código fuente principal de la aplicación Flutter.
+/android: Contiene archivos específicos para la compilación de la aplicación en dispositivos Android.
+/ios: Contiene archivos específicos para la compilación de la aplicación en dispositivos iOS.
+/test: Directorio para pruebas unitarias del proyecto.
+README.md: Este archivo, que proporciona una visión general del proyecto.
 
-A few resources to get you started if this is your first Flutter project:
+Requisitos Previos
+Para ejecutar este proyecto, necesitas tener instalado:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter SDK
+Android Studio o Visual Studio Code (con extensiones de Flutter y Dart)
+Un emulador o dispositivo físico para ejecutar la aplicación
+Instrucciones de Instalación
+Clona el repositorio en tu máquina local usando git clone [URL del repositorio].
+Abre el directorio del proyecto en tu editor de código (Android Studio o Visual Studio Code).
+Ejecuta flutter pub get en la terminal para instalar las dependencias.
+Inicia un emulador o conecta un dispositivo físico.
+Ejecuta la aplicación con flutter run.
+Contribuciones
+Este proyecto es parte de una tarea académica, y no se aceptan contribuciones externas.
